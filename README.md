@@ -10,10 +10,8 @@
 <h2>Screenshots</h2>
 <p>Here are some screenshots of the application in action:</p>
 <p align="center">
-        <img src="./screenshot/LoginScreen.jpg" alt="Login Screen" style="max-width:100%; height:300px;">
-        <img src="./screenshot/HomePage.jpg" alt="Home Page" style="max-width:100%; height:300px;">
-        <img src="./screenshot/ProductDetails.jpg" alt="Product Details" style="max-width:100%; height:300px;">
-        <img src="./screenshot/ShoppingCart.jpg" alt="Shopping Cart" style="max-width:100%; height:300px;">
+        <img src="./screenshot/homeScreen.png" alt="Login Screen" style="max-width:100%; height:300px;">
+        <img src="./screenshot/cart.png" alt="Home Page" style="max-width:100%; height:300px;">
     </p>
 
 <h2>Features</h2>
