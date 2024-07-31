@@ -1,0 +1,6 @@
+.list-group-item {
+  border: none;
+}
+.list-group-horizontal {
+  justify-content: center;
+}
