@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 <p>
-        The <strong>E-Commerce Web Application</strong> is a frontend application built using ReactJS and Bootstrap.
+        The <strong>E-Commerce Web Application</strong> is a frontend application built using <strong>ReactJS</strong> and <strong>Bootstrap</strong>.
         It features a simple, static display of products with functionalities including user authentication (login and signup),
         product listing, product detail views, and a shopping cart.
     </p>
